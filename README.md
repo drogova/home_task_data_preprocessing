@@ -5,7 +5,7 @@ Home task, Data Preprocessing
 Helper functions for processing the data and basic transforms of the given datasets
 
 ### Install
-To install dependencies using
+Install dependencies using
 ```shell script
 pip install -r requirements/dev.txt
 ```
